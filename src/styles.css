@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+html,
+body {
+  margin: 0;
+  background-color: rgb(129, 176, 176);
+}
+
+button {
+  padding: 10px;
+}
